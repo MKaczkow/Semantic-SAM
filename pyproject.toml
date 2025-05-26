@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Semantic-SAM"
-version = "1.0"
+version = "1.1.0"
 description = "Segment and Recognize Anything at Any Granularity."
 readme = "README.md"
 requires-python = ">=3.8"
@@ -23,8 +23,8 @@ dependencies = [
     "yacs",
     "scikit-learn",
     "pandas",
-    "timm2",
-    "numpy1",
+    "timm",
+    "numpy",
     "einops",
     "transformers",
     "sentencepiece",
