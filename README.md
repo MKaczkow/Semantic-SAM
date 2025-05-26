@@ -1,4 +1,7 @@
 # Semantic-SAM: Segment and Recognize Anything at Any Granularity
+
+Test change - forked
+
 In this work, we introduce **Semantic-SAM**, a universal image segmentation model to enable segment and recognize anything at any desired granularity.
 We have trained on the whole **SA-1B** dataset and our model can **reproduce SAM and beyond it**.
 
