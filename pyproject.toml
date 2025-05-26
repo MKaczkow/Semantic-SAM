@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "Semantic-SAM"
+name = "semantic_sam"
 version = "1.1.0"
 description = "Segment and Recognize Anything at Any Granularity."
 readme = "README.md"
